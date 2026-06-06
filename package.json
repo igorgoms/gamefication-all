@@ -1,0 +1,25 @@
+{
+  "name": "gamefication-all",
+  "version": "1.0.0",
+  "description": "Uma ideia de gameficar tudo o que você quiser!",
+  "homepage": "https://github.com/igorgoms/gamefication-all#readme",
+  "bugs": {
+    "url": "https://github.com/igorgoms/gamefication-all/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorgoms/gamefication-all.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^16.2.7",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  }
+}
